@@ -36,4 +36,4 @@ This project is open-source and available under the MIT License.
 Vivek Singh
 
 ## View live
-https://mathproblemsolve.netlify.app/
+View live here [https://mathproblemsolve.netlify.app/]
